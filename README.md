@@ -29,3 +29,7 @@ my socials and similar things
  <p align="center">
   |    <a href="https://marws3p.straw.page/">straw page</a>  |  <a href="https://en.pronouns.page/@marwrutk1n">pronouns page</a>  |  
 </p>
+
+ <p align="center">
+<img width="125" height="125" alt="6eb4fe36-0b74-4cab-9ee6-ab407c0220ca (1) (1) (1)" src="https://github.com/user-attachments/assets/1bd6efcd-a5db-4081-96b1-73b092c7cb3f" />
+ </p>
