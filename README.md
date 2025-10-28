@@ -4,7 +4,7 @@
 
 ---
  <p align="center">
-<img width="600" height="324" alt="fd4fe146-39f6-4a6b-aae2-a95c9d87f673" src="https://github.com/user-attachments/assets/1103ac81-cb6f-4653-82cf-2d79835a571e" />
+<img width="600" height="324" alt="b1e71178-b260-4b37-b30d-2474e76faa20 (1) (1) (1)" src="https://github.com/user-attachments/assets/8aa4aa0e-ba39-4ab0-af1e-fbe591159257" />
  </p>
 
 ---
@@ -31,5 +31,5 @@ my socials and similar things
 </p>
 
  <p align="center">
-<img width="125" height="125" alt="6eb4fe36-0b74-4cab-9ee6-ab407c0220ca (1) (1) (1)" src="https://github.com/user-attachments/assets/1bd6efcd-a5db-4081-96b1-73b092c7cb3f" />
+<img width="125" height="125" alt="6eb4fe36-0b74-4cab-9ee6-ab407c0220ca (1) (1) (1)" src="https://github.com/user-attachments/assets/afa7f0b4-a850-40a7-92e8-e7716d6e97f5" />
  </p>
